@@ -1,0 +1,12 @@
+.link__text {
+  margin: 0 16px;
+  color: #007BFF;
+
+  user-select: none;
+  cursor: pointer;
+}
+
+.link__text.passive {
+  color: #6C757D;
+  cursor: inherit;
+}

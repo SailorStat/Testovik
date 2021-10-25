@@ -1,0 +1,18 @@
+.button {
+  height: 36px;
+  padding: 6px 12px;
+
+  line-height: 1.5;
+  background: #fff;
+  color: #28A745;
+  border: 1px solid #28A745;
+  box-sizing: border-box;
+  border-radius: 4px;
+  user-select: none;
+  cursor: pointer;
+}
+
+.button:hover,
+.button:active {
+  outline: 2px solid #28A745;
+}
